@@ -4,15 +4,16 @@ Scripts und Dokumentationen für mein Proxmox Homelab.
 
 ## 📁 Struktur
 
+```
 proxmox-scripts/
 ├── samba/
-│   └── setup-samba.sh        # Samba Freigabe auf Proxmox Host
+│   └── setup-samba.sh
 ├── virtiofs/
-│   └── setup-virtiofs.md     # VirtioFS Shared Storage Setup
+│   └── setup-virtiofs.md
 ├── firewall/
-│   └── proxmox-firewall.md   # Firewall Regeln und Dokumentation
+│   └── proxmox-firewall.md
 └── docs/
-└── (weitere Dokumentation)
+```
 
 ## Quick Start
 
