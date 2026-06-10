@@ -41,7 +41,7 @@ Policy: DROP - nur explizit erlaubte Verbindungen.
 | Komponente | Details |
 |------------|---------|
 | Hypervisor | Proxmox VE |
-| Netzwerk | 192.168.50.0/24 |
+| Netzwerk | 192.168.Y.Y/24 |
 | Shared Storage | /mnt/share |
 | Windows Zugriff | \\\\proxmox-ip\\ProxmoxShare |
 
